@@ -1,0 +1,26 @@
+{
+"name": "Mem0Ma5ter",
+"version": "1.0.0",
+"description": "This is an application for managing personal notes that supports adding, editing, and deleting notes.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yanhuai8/Mem0Ma5ter.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yanhuai8",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
